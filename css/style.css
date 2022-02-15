@@ -1,0 +1,29 @@
+ h2 {
+         text-transform: uppercase;
+         color: rgb(132, 66, 245);
+    }
+ h1{
+        text-align: center; color:rgb(2, 66, 245)
+}
+#heading {      
+        border-bottom: 1px solid #000;
+}
+div p {
+        
+        font-style: italic;
+}
+@font-face {
+        font-family: FontName;
+        src: url('path/filename.eot');
+        src: url('') format("");
+}
+.has {    
+margin: 5px;
+padding: 10px 15px;
+width: 50%;
+border: 1px solid #000;
+background-color: rgba(132, 66, 245, 0.438);
+color: #fff;
+border-radius: 40px;
+
+}
